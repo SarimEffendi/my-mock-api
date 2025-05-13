@@ -1,0 +1,28 @@
+{
+    "roles": {
+        "message": "",
+        "result": true,
+        "data": [
+            {
+                "roleId": 2,
+                "role": "Admin"
+            },
+            {
+                "roleId": 4,
+                "role": "Junior Developer"
+            },
+            {
+                "roleId": 6,
+                "role": "Team Lead"
+            },
+            {
+                "roleId": 13,
+                "role": "Manager"
+            },
+            {
+                "roleId": 31,
+                "role": "string"
+            }
+        ]
+    }
+}
