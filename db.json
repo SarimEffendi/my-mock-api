@@ -24,5 +24,27 @@
                 "role": "string"
             }
         ]
+    },
+    "designations": {
+        "message": "",
+        "result": true,
+        "data": [
+            {
+                "designationId": 26,
+                "designation": "Software Engineer"
+            },
+            {
+                "designationId": 28,
+                "designation": "Project Manager"
+            },
+            {
+                "designationId": 29,
+                "designation": "Data Analyst"
+            },
+            {
+                "designationId": 30,
+                "designation": "UX Designer"
+            }
+        ]
     }
 }
